@@ -1,5 +1,6 @@
 migrations
 myproject/data.sqlite
+.venv
 .vscode
 .dist
 myproject/__pycache__
